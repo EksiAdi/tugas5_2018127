@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tugas5</string>
+    <string-array name="makanan">
+        <item>Coffe Rum</item>
+        <item>Coffe Latte</item>
+        <item>Lemon Squash</item>
+        <item>Oreo Machhiato</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 12.000</item>
+        <item>Rp. 16.000</item>
+        <item>Rp. 20.000</item>
+        <item>Rp. 25.000</item>
+    </string-array>
+</resources>
